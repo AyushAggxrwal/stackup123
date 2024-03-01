@@ -1,0 +1,12 @@
+/workspace/stackup123/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.deps.json
+/workspace/stackup123/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.dll
+/workspace/stackup123/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.pdb
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.AssemblyReference.cache
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfoInputs.cache
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfo.cs
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.CoreCompileInputs.cache
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.dll
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/refint/MyCharacter.dll
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.pdb
+/workspace/stackup123/first_contract_aelf/src/obj/Debug/net6.0/ref/MyCharacter.dll
